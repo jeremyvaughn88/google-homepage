@@ -1,0 +1,67 @@
+#logo{
+	height: 10em;
+	position: relative
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%) }
+#searchbar{
+	height: 10em;
+	position: relative
+	margin: 0;
+	position: absolute;
+	top: 75%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)}
+#footer{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #dddddd;
+	position: fixed;
+	bottom: 0;
+	width: 100%;}
+.footer_link_left{
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+	float: left;
+	text-decoration:none;
+	color:black;
+	font:serif;
+	font-size:12px;}
+.footer_link_right{
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+	float: right;
+	text-decoration:none;
+	color:black;
+	font:serif;
+	font-size:12px;}
+#header{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;}
+.header_link{
+	display: block;
+	padding: 8px;
+	background-color: white;
+	float: right;
+	text-decoration:none;
+	color:black;
+	font:serif;
+	font-size:12px;}
+#sign_in{
+	display: block;
+	padding: 8px;
+	background-color: blue;
+	float: right;
+	text-decoration:none;
+	color:white;
+	font:serif;
+	font-size:12px;}
+
